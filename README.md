@@ -1,4 +1,4 @@
-📊 Sales Analysis Dashboard
+📊 Sales Performance Analysis & Dashboard
 
 Welcome to the Sales Analysis Dashboard project! This interactive dashboard provides a comprehensive overview of sales performance across multiple dimensions including product categories, regions, shipping modes, and customer segments.
 
